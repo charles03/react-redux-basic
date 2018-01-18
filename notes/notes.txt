@@ -1,0 +1,6 @@
+redux cewntralizes all of data into a central single javascript object
+which refer to as the state in react
+
+Reducer in redux is a function that returns a piece of application state
+because application can have multiple states, so as to have multiple reducers
+
